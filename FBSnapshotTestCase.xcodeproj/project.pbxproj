@@ -179,8 +179,7 @@
 				F0D698F41B204E120005CAC9 /* SwiftSupport.swift */,
 				B31987F31AB782D000B0A900 /* Supporting Files */,
 			);
-			name = Sources;
-			path = FBSnapshotTestCase;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		B31987F31AB782D000B0A900 /* Supporting Files */ = {
@@ -695,7 +694,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "FBSnapshotTestCase/FBSnapshotTestCase-Info.plist";
+				INFOPLIST_FILE = "Sources/FBSnapshotTestCase-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -726,7 +725,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "FBSnapshotTestCase/FBSnapshotTestCase-Info.plist";
+				INFOPLIST_FILE = "Sources/FBSnapshotTestCase-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

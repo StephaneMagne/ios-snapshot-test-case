@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "ios-snapshot-test-case",
+    name: "FBSnapshotTestCase",
     products: [
         .library(
             name: "FBSnapshotTestCase",

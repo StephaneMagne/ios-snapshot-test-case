@@ -129,7 +129,7 @@ NS_ASSUME_NONNULL_BEGIN
  }
  @endcode
  */
-@interface FBSnapshotTestCase : XCTestCase
+@interface _FBSnapshotTestCase : XCTestCase
 
 /**
  When YES, the test macros will save reference images, rather than performing an actual test.

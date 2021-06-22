@@ -10,7 +10,7 @@
 #import <FBSnapshotTestCase/FBSnapshotTestCase.h>
 #import <FBSnapshotTestCase/FBSnapshotTestController.h>
 
-@implementation FBSnapshotTestCase {
+@implementation _FBSnapshotTestCase {
     FBSnapshotTestController *_snapshotController;
 }
 

@@ -8,13 +8,13 @@ let package = Package(
     products: [
         .library(
             name: "FBSnapshotTestCase",
-            targets: ["ios-snapshot-test-case"]),
+            targets: ["FBSnapshotTestCase"]),
     ],
     dependencies: [
     ],
     targets: [
         .target(
-            name: "ios-snapshot-test-case",
+            name: "FBSnapshotTestCase",
             dependencies: []),
     ]
 )

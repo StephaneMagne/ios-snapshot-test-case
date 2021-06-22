@@ -7,7 +7,7 @@ let package = Package(
     name: "ios-snapshot-test-case",
     products: [
         .library(
-            name: "ios-snapshot-test-case",
+            name: "FBSnapshotTestCase",
             targets: ["ios-snapshot-test-case"]),
     ],
     dependencies: [
